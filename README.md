@@ -12,3 +12,11 @@ If not it simply says goodbye and ends.
 
 That is all for now. I learned that printing a file with anywhere near these amount of word combos is extremely over the top.
 And if i want to go about trying to crack Charter Wifi Passwords it would probably be best to just utilize the different adj/noun word lists LIVE. 
+
+
+To use:
+1. Download all the files into a new folder in your IdeaProjects folder.
+2. Move the .java files into the src folder
+3. Make sure the txt files are in your parent folder
+4. Load up the 2 java files - "WordMasher" has the main() in it.
+5. Run it...and whatever you do don't print the files :)
