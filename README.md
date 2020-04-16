@@ -12,6 +12,7 @@ If not it simply says goodbye and ends.
 
 That is all for now. I learned that printing a file with anywhere near these amount of word combos is extremely over the top.
 And if i want to go about trying to crack Charter Wifi Passwords it would probably be best to just utilize the different adj/noun word lists LIVE. 
+FYI -- this is all just for research and fun.
 
 
 To use:
